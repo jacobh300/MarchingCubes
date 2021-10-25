@@ -1,6 +1,8 @@
 # MarchingCubes
 A rendering program based on the Marching Cubes algorithm that allowed for generating a polygon mesh based on a set of 3D values.
 
+Look into the PDF file for a more detailed explanation of the algorithm 
+
 ![alt text](https://i.imgur.com/RraAgHg.gif)
 
 Interface/GUI
