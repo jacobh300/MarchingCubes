@@ -32,3 +32,5 @@ vertices. This will create a mesh with back faces invisible (due to backface cul
 also a mesh that's created inside out. You can use this to create a “cave” like mesh, and
 allow your first person camera to drop inside to explore depending on how much of the
 space you filtered in/out
+
+![alt text](https://imgur.com/scIFnPw)
