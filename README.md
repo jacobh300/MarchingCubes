@@ -33,4 +33,4 @@ also a mesh that's created inside out. You can use this to create a “cave” l
 allow your first person camera to drop inside to explore depending on how much of the
 space you filtered in/out
 
-![alt text](https://imgur.com/scIFnPw)
+![alt text](https://i.imgur.com/scIFnPw.gif)
