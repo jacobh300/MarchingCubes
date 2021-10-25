@@ -1,0 +1,6 @@
+The "MarchingCubes" folder contains the source project/files. 
+You can find the scripts used to create the algorithm under the following path:
+	"MarchingCubes\Assets\Scripts"
+The "Executable" folder contains a exe file used to run the project.
+The PDF/Document contains information about the project and what went into creating the project
+as well as a small guide for using the algorithm settings in the program.
